@@ -23,8 +23,6 @@ function Slider() {
                     [&_.swiper-pagination-bullet]:opacity-60!
                     [&_.swiper-pagination-bullet]:transition-all!
                     [&_.swiper-pagination-bullet]:duration-300!
-                    [&_.swiper-pagination-bullet-active]:w-8!
-                    [&_.swiper-pagination-bullet-active]:rounded-full!
                     [&_.swiper-pagination-bullet-active]:bg-gray-800! 
                     [&_.swiper-pagination-bullet-active]:opacity-100! 
                     [&_.swiper-pagination-bullet:hover]:bg-gray-700! 
