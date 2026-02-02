@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+a {
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
